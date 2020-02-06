@@ -1,2 +1,3 @@
-# Python-3
-simple beginner python projects
+#Learnig python beginner
+
+#simple python programs and projects
